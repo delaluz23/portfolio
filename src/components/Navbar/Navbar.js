@@ -1,6 +1,6 @@
 import React from "react";
-import '../css/navbarCSS.css';
-import initials from '../assets/Jd..png';
+import './navbarCSS.css';
+import initials from '../../assets/Jd..png';
 import { Link } from 'react-scroll';
 
 

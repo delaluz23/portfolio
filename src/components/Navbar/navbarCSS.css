@@ -12,15 +12,15 @@
 }
 .initials {
     object-fit: cover;
-    height: 8rem;
-    width: 10rem;
+    height: 5rem;
+    width: 8rem;
 }
 .desktopMenuListItem{
     margin: 1rem;
     cursor: pointer;
 }
 .desktopMenuBTN{
-    background: white;
+    background: cadetblue;
     color: black;
     border: none;
     display: flex;
@@ -36,4 +36,9 @@
     width: 1rem;
     margin: 1rem;
 
+}
+.desktopMenuListItem:hover {
+    color: darkblue;
+    padding-bottom: .5rem;
+    border-bottom: 8px solid darkblue;
 }
