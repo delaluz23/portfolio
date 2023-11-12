@@ -11,8 +11,13 @@ const Intro = () => {
                 <span className="introText">I'm
                     <span className="introName"> Jose Luis De La Luz III</span>
                     <br/>
-                   Full Stack Web Developer & AWS Cloud Engineer
-                    <p className="introPara">After a dedicated service with the United States Navy, I embarked on an exciting journey to follow my true passion in technology. I honed my skills through the successful completion of two intensive coding boot camps, equipping myself with a strong foundation in programming and development.</p>
+                   Full Stack Web Developer
+                    <br/>
+                    AWS Cloud Engineer
+                    <br/>
+                    <p className="introPara">After a dedicated service with the United States Navy, I embarked on an exciting journey to follow my
+                        <br/>true passion in technology. I honed my skills through the successful completion of two intensive
+                        <br/>coding boot camps, equipping myself with a strong foundation in programming and development.</p>
                 </span>
                 <Link>
                     <button className="hireMeBtn">
